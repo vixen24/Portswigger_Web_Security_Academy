@@ -49,4 +49,4 @@ The [Web Security Academy](https://portswigger.net/web-security) is a free onlin
 - [@vixen24](https://github.com/vixen24/)
 
 ## Licence
-All the content of this repo are based on PortSwigger's [Web Security Academy](https://portswigger.net/web-security). They hold all rights to any content that is not my own.
+All the content of this repo is based on PortSwigger's [Web Security Academy](https://portswigger.net/web-security). They hold all rights to any content that is not my own.
