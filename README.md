@@ -6,7 +6,7 @@
 
 <h1>Portswigger Web Security Academy Notes 📖</h1>
 
-The [Web Security Academy](https://websecurity-academy.com/) is a free online training center for web application security, this notes provides solutions to the lab section of the course. I am currently taking the course and documenting my progress here. 
+The [Web Security Academy](https://portswigger.net/web-security) is a free online training center for web application security, this notes provides solutions to the lab section of the course. I am currently taking the course and documenting my progress here. 
 
 <details><summary><h2>Cross-origin resource sharing</h2></summary>
 
@@ -49,4 +49,4 @@ The [Web Security Academy](https://websecurity-academy.com/) is a free online tr
 - [@vixen24](https://github.com/vixen24/)
 
 ## Licence
-All the content of this repo are based on PortSwigger's [Web Security Academy](https://websecurity-academy.com/). They hold all rights to any content that is not my own.
+All the content of this repo are based on PortSwigger's [Web Security Academy](https://portswigger.net/web-security). They hold all rights to any content that is not my own.
