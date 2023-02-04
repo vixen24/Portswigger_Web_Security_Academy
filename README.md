@@ -10,7 +10,7 @@ The [Web Security Academy](https://portswigger.net/web-security) is a free onlin
 
 <details><summary><h2>Cross-origin resource sharing</h2></summary>
 
-- [x] CORS vulnerability with basic origin reflection
+- [x] [CORS vulnerability with basic origin reflection](https://github.com/vixen24/Portswigger_Web_Security_Academy_Series/blob/main/CORS-origin-resource-sharing/CORS%20vulnerability%20with%20basic%20origin%20reflection)
 
 - [ ] CORS vulnerability with trusted null origin
 
