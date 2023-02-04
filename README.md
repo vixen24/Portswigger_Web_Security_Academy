@@ -1,10 +1,8 @@
-<p align="center",color="white">
+<p align="center">
   <img src="https://github.com/vixen24/Portswigger_Web_Security_Academy_Series/blob/main/res/happy.gif" alt="animated" />
 </p>
 
-
-
-<h1>Portswigger Web Security Academy Notes 📖</h1>
+<h1 align="center">Portswigger Web Security Academy Notes 📖</h1>
 
 The [Web Security Academy](https://portswigger.net/web-security) is a free online training center for web application security, this notes provides solutions to the lab section of the course. I am currently taking the course and documenting my progress here. 
 
